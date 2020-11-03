@@ -1,5 +1,5 @@
 # Prueba Tecnica Convocatoria TNT
-#### Adriana Salas
+#### Realizado por: Adriana Salas
 A continuación se explica el desarrollo de la prueba técnica la cual consiste en desarrollar un minijuego con relación al fútbol y un avatar personalizable.
 
 # Juego
